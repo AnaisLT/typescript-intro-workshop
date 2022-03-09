@@ -1,0 +1,9 @@
+{
+  "author": "Josh Goldberg <me@joshuakgoldberg.com>",
+  "description": "Demo code for my Intro to TypeScript workshop! ✨",
+  "name": "typescript-intro-workshop",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "version": "0.1.0"
+}
